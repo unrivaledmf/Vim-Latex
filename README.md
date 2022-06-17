@@ -1,4 +1,4 @@
-# Halo, Saya Fadil
+# Halo, Saya Fadil 👨‍🔬
 Seorang pelajar yang sekarang sedang antusias terhadap Competitive Programming.
 ## 🔗 Links 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
@@ -10,7 +10,7 @@ Seorang pelajar yang sekarang sedang antusias terhadap Competitive Programming.
 
 
 
-## Vim-Latex
+## 📖 Vim-Latex
 Menggunakan Vim untuk Latex
 ### Motivasi dan Curhat
 ---
