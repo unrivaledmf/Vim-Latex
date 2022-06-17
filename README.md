@@ -203,6 +203,9 @@ silent! source ~/.myvimrc         "Add your additions in this file
 
 
 ```
-setelah itu anda tekan `esc` agar kembali ke mode normal dan kemudian tekan 'shift+:` untuk masuk ke mode command tujuannya untuk menyimpan konfigurasi tadi kemudian ketik `wq` otomatis akan kembali ke tampilan awal terminal dan selesai. 
+setelah itu anda tekan `esc` agar kembali ke mode normal dan kemudian tekan `shift+:` untuk masuk ke mode command tujuannya untuk menyimpan konfigurasi tadi kemudian ketik `wq` otomatis akan kembali ke tampilan awal terminal dan selesai. 
+
+### Kesimpulan
+sangat bangga untuk ini setidaknya saya telah melakukannya dan sepertinya akan banyak yang ingin saya tambahkan lebih untuk repositori pertama saya ini hahahaha terlihat seperti blog pada umumnya yang sangat-sangat tidak menggambarkan repositori github. Mungkin saya akan melakukannya dilain waktu saja.
 
 
