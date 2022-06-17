@@ -204,6 +204,33 @@ silent! source ~/.myvimrc         "Add your additions in this file
 
 ```
 setelah itu anda tekan `esc` agar kembali ke mode normal dan kemudian tekan `shift+:` untuk masuk ke mode command tujuannya untuk menyimpan konfigurasi tadi kemudian ketik `wq` otomatis akan kembali ke tampilan awal terminal dan selesai. 
+#### Tes
+Untuk mencoba mengetik Latex dengan Vim cukup buka terminal dan ketikkan `vim yang_mau_kau_ketik.tex` contoh `vim kamucantik.tex`. Berikut contoh file yang bisa anda ketik. 
+``` bash
+documentclass[12pt]{article}
+
+\begin{document}
+\begin{center}
+	\textbf{Dokumen pertama yang saya ketik dengan latex di vim }\\
+	\textit{sangat bangga hahahahahah}\\
+\underline{dibuat oleh : Muhammad fadil }
+\end{center}
+[txt dlm hati : demi apaaa? ah dameyo dame dame]\\
+
+Asli sebenarnya ini ribetnya minta ampun | untung saya |
+cuman minesnya di Linux rada susah mau install package yang dibutuhkan untuk menunjang kinerja kita di latex, for example kalo mau buat diagram otomatis pake tizk kan, nulis matematika pun harus pake amsmath-amsfont-amssymb nah itu semua kudu diinstall dulu kalau tidak yah pasti kode tidak jalan dan error pun menyenangkan hati.\\
+
+Problem keduanya adalah kalau masuk semua terpenuhi harus install full distribusinya kataku, kalau diLinux kode terminallnya "sudo apt-get install texlive -full -y" kurang lebih seperti itu lah. \\
+
+Big problemnya adalah ini asli yang paling susah,BAGAIMANA AGAR VIM PUNYA MU ITU BISA TERKONFIGURASI DENGAN LATEX  ini asli yang bikin kepala mu mau menyerah anj, keknya bisa bisa tonji mau belajar tapi harus ko pelajari satu-satu hahaha, kek seperti kalau mau compile file mu harus pake baris kode apa yang kau isi di .vimrc wkwkkwkwkwkwkw belum lagi plug-in - plug-in yang lainnya. (catatan : kalau kau anak youtue yg ada apa apa youtube youtube, sabarko wkwkwk tidak ada perihal ini di youtube dengan kata lain - malas membaca = ngangong-ngangon) \\
+
+Sebenarnya yang paling susah sejauh ini menurutku itu BAGAIMANA CARANYA AGAR APA YANG ADA DALAM SISTEM OPERASI LINUX MU BISA SESUAI DENGAN YANG KAU MAU, asli itu yang paling susah, seperti mau ko isi apa, varna apa, model apa, gaya apa, cara apa, terbang kah, tidur kah, ikon nya kah. apalagi kalau sedikit ji penyimpanan mu habis mi kwwkwk kasusku 8gb untuk linux-swapnya,20gb untuk ext4 / nya, 25 gb untuk home nya, jadi kalau mau ko pake lama mending kasih banyak memang mi, kek saya pusing ma bagaimana caranya tambah partisinya. Intinya itu ji yang bisa kusampaikan sebagai anak yang baru sekali dilinux wkwk tetapi semangat. 
+
+
+
+\end{document}
+```
+Untuk menampilkan dokumen hasilnya cukup sederhana dengan menyimpan kode latexnya terlebih dulu dengan command `w` dan kemudian kembali ke mode normal dengan `esc` dan ketikkan `\ll` maka dokumen hasil latex akan muncul.
 
 ### Kesimpulan
 sangat bangga untuk ini setidaknya saya telah melakukannya dan sepertinya akan banyak yang ingin saya tambahkan lebih untuk repositori pertama saya ini hahahaha terlihat seperti blog pada umumnya yang sangat-sangat tidak menggambarkan repositori github. Mungkin saya akan melakukannya dilain waktu saja.
