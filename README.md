@@ -204,6 +204,7 @@ silent! source ~/.myvimrc         "Add your additions in this file
 
 ```
 setelah itu anda tekan `esc` agar kembali ke mode normal dan kemudian tekan `shift+:` untuk masuk ke mode command tujuannya untuk menyimpan konfigurasi tadi kemudian ketik `wq` otomatis akan kembali ke tampilan awal terminal dan selesai. 
+
 #### Tes
 Untuk mencoba mengetik Latex dengan Vim cukup buka terminal dan ketikkan `vim yang_mau_kau_ketik.tex` contoh `vim kamucantik.tex`. Berikut contoh file yang bisa anda ketik. 
 ``` tex
