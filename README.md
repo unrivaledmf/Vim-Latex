@@ -231,6 +231,8 @@ Sebenarnya yang paling susah sejauh ini menurutku itu BAGAIMANA CARANYA AGAR APA
 
 \end{document}
 ```
+![latex with vim](https://user-images.githubusercontent.com/107534586/174306098-7d78ca01-3d1c-41be-80ea-98cd50b4c609.png)
+
 Untuk menampilkan dokumen hasilnya cukup sederhana dengan menyimpan kode latexnya terlebih dulu dengan command `w` dan kemudian kembali ke mode normal dengan `esc` dan ketikkan `\ll` maka dokumen hasil latex akan muncul.
 
 ### Kesimpulan
